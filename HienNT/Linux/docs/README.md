@@ -14,7 +14,7 @@
 **5.** [**Quản lý các gói**](25-bai-linux\5.1_package_management.md)  
 - 5.1. [Các tùy chọn hay dùng của yum](25-bai-linux/5.1_package_management.md)  
 - 5.2. [Cài đặt LAMP trên CentOS 7](25-bai-linux/lamp.md)  
-    - [Cài đặt,cấu hình Apache](25-bai-linux/domain.md)  
+    - [Cài đặt,cấu hình Apache](LAMP/Apache/install_httpd.md)  
     - [Tìm hiểu về MySQL/MariaDB](25-bai-linux/mysql.md)  
     - [Cài đặt MariaDB](25-bai-linux/install_mariadb.md)  
     - [Database và user database trong MariaDB](25-bai-linux/db.md)  
