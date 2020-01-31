@@ -135,7 +135,7 @@
 #### HTTP Context  
 - Khi cấu hình Nginx như một web server hoặc reverse proxy, http context sẽ giữ phần lớn cấu hình. Context này sẽ chứa tất cả các directive và những context(block directive) cần thiết khác để xác định cách chương trình sẽ xử lý các kết nối HTTP và HTTPS.  
 
-- Có thể xem chi tiết httpd contexxt trong config file [tại đây](ae22194bedbacf39653b887d1bdeb603)
+- Có thể xem chi tiết httpd context trong config file [tại đây](https://gist.github.com/thuyhiend/ae22194bedbacf39653b887d1bdeb603)
 
 - Giải thích một số directive:  
 
